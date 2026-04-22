@@ -7,7 +7,7 @@ import sys
 from lxml import etree
 
 # Pasta onde os seus arquivos XML/M3U estão salvos no GitHub
-PASTA_LISTAS = "listas/*.xml"
+PASTA_LISTAS = "Listas/*.xml"
 
 def clean_name(name):
     """Limpa o lixo das listas para sobrar só o nome real"""
