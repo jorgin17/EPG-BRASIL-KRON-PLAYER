@@ -1,6 +1,8 @@
-
 {
-  "globo.rj": ["174", "globo rj", "globo brasil"],
-  "band.sp": ["100", "band sao paulo", "band fhd"],
-  "arte1.br": ["72", "arte 1 fhd", "arte.1.br"]
+  "globo.rj": ["174", "globo rj", "globo rj fhd", "globo brasil", "globo rj fhd alt"],
+  "globo.sp": ["globo sp", "globo sao paulo", "tv globo sp"],
+  "espn.1": ["espn 1", "espn brasil", "espn fhd", "espn 1 4k"],
+  "sportv.1": ["sportv", "sportv 1", "sportv fhd", "sportv 1 fhd"],
+  "band.sp": ["100", "band", "band fhd", "band sp", "band sao paulo"],
+  "cazetv.br": ["cazetv", "caze tv", "caze tv 4k", "caze tv fhd"]
 }
